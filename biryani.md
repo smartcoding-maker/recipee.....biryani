@@ -1,0 +1,11 @@
+ingridients(){
+    oil;
+    onion;
+    carrot;
+    beetroot;
+    beans;
+    masala;
+    cashew;
+    paneer;
+}
+  recipe();
